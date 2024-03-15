@@ -57,9 +57,10 @@ Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, **Yanan Li<sup>*</sup>**, S
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/emnlp23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 Prompting Scientific Names for Zero-Shot Species Recognition
+
 Shubham Parashar, Zhiqiu Lin, **Yanan Li<sup>*</sup>**, Shu Kong<sup>*</sup>
+
 [[Paper]](https://aclanthology.org/2023.emnlp-main.610.pdf)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - This paper proposes the first large-scale instance detection dataset. -->
