@@ -19,7 +19,7 @@ redirect_from:
 
 I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher now in Hangzhou, leading a fundamental computer vision/machine learning research group. I completed my Ph.D. in the Department of Computer Science and Technology from Zhejiang University, co-supervised by Prof. [Yueting Zhuang (庄越挺)](https://scholar.google.com/citations?user=1RD7UJAAAAAJ&hl=zh-CN) and Prof. [Donghui Wang (王东辉)](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=zh-CN). Before that, I obtained my B.E. degree in the Department of Computer Science and Technology from Qingdao University. I am now working on zero/few-shot learning, open-world learning, long-tailed recognition etc. If you are seeking any form of **academic cooperation**, please feel free to email me at [liyn@zhejianglab.com](mailto:liyn@zhejianglab.com) or [ynli.zju@gmail.com](mailto:ynli.zju@gmail.com). 
 
-
+Several 
 
 
 # 🔥 News
@@ -201,9 +201,15 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 - Signal Processing Letters (SPL)
 
+## Grant Reviewer: 
+- National Natural Science Foundation of China
+
+- Zhejiang Lab Open Fund
+
+
+
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Coming soon
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
