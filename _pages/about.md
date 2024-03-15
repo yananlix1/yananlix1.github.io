@@ -28,6 +28,16 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+The Neglected Tails of Vision-Language Models
+Shubham Parashar, Zhiqiu Lin, Tian Liu, Xiangjue Dong, **Yanan Li**, Deva Ramanan, James Caverlee, Shu Kong
+[[**Project**]](https://shubhamprshr27.github.io/neglected-tails-of-vlms/) &nbsp;&nbsp; [[Paper]](https://arxiv.org/pdf/2401.12425.pdf)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips23-insdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
