@@ -79,7 +79,7 @@ Jing Xu, Xu Luo, Xinglin Pan, **Yanan Li**, Wenjie Pei, Zenglin Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/aaai21-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/aaai21.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Inference Fusion with Associative Semantics for Unseen Object Detection
