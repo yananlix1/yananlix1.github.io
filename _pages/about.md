@@ -103,6 +103,18 @@ Hongrui Zhao, Jin Yu, **Yanan Li**, Donghui Wang<sup>*</sup>, Jie Liu, Hongxia Y
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2020</div><img src='images/cvprw20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Context-guided super-class inference for zero-shot detection
+
+**Yanan Li**, Yilan Shao, Donghui Wang<sup>*</sup>
+
+[[Paper]](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w54/Li_Context-Guided_Super-Class_Inference_for_Zero-Shot_Detection_CVPRW_2020_paper.pdf)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
