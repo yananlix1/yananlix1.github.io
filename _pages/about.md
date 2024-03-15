@@ -115,6 +115,17 @@ Context-guided super-class inference for zero-shot detection
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMVC 2019</div><img src='images/bmvc19.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Joint Learning of Attended Zero-Shot Features and Visual-Semantic Mapping
+
+**Yanan Li**, Donghui Wang<sup>*</sup>
+
+[[Paper]](https://bmvc2019.org/wp-content/uploads/papers/0681-paper.pdf)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
