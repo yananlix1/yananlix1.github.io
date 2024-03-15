@@ -174,8 +174,8 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2011.09 - 2018.04*, PhD, Computer Science and Technology Department, Zhejiang University, Hangzhou, China.
+- *2007.09 - 2011.06*, Undergraduate, Computer Science and Technology Department, Qingdao University, Qingdao, China.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
