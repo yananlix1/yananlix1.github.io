@@ -67,6 +67,18 @@ Shubham Parashar, Zhiqiu Lin, **Yanan Li<sup>*</sup>**, Shu Kong<sup>*</sup>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/neurips22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Alleviating the Sample Selection Bias in Few-Shot Learning by Removing Projection to the Centroid
+
+Jing Xu, Xu Luo, Xinglin Pan, **Yanan Li**, Wenjie Pei, Zenglin Xu
+
+[[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/84b686f7cc7b7751e9aaac0da74f755a-Paper-Conference.pdf)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
