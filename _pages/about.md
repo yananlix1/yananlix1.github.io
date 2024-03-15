@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher now in Hangzhou, leading a fundamental computer vision/machine learning research group. I completed my Ph.D. in College of Computer Science from Zhejiang University, co-supervised by Prof. [Yueting Zhuang (庄越挺)](https://scholar.google.com/citations?user=1RD7UJAAAAAJ&hl=zh-CN) and Prof. [Donghui Wang (王东辉)](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=zh-CN). I am now working on zero/few-shot learning, open-world learning, long-tailed recognition etc. If you are seeking any form of **academic cooperation**, please feel free to email me at [liyn@zhejianglab.com](mailto:liyn@zhejianglab.com) or [ynli.zju@gmail.com](mailto:ynli.zju@gmail.com). 
+I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher now in Hangzhou, leading a fundamental computer vision/machine learning research group. I completed my Ph.D. in the Department of Computer Science and Technology from Zhejiang University, co-supervised by Prof. [Yueting Zhuang (庄越挺)](https://scholar.google.com/citations?user=1RD7UJAAAAAJ&hl=zh-CN) and Prof. [Donghui Wang (王东辉)](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=zh-CN). Before that, I obtained my B.E. degree in the Department of Computer Science and Technology from Qingdao University. I am now working on zero/few-shot learning, open-world learning, long-tailed recognition etc. If you are seeking any form of **academic cooperation**, please feel free to email me at [liyn@zhejianglab.com](mailto:liyn@zhejianglab.com) or [ynli.zju@gmail.com](mailto:ynli.zju@gmail.com). 
 
 
 
@@ -173,21 +173,27 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2011.09 - 2018.04*, PhD, Computer Science and Technology Department, Zhejiang University, Hangzhou, China.
-- *2007.09 - 2011.06*, Undergraduate, Computer Science and Technology Department, Qingdao University, Qingdao, China.
+<!-- # 📖 Educations-->
+<!-- - *2011.09 - 2018.04*, PhD, Computer Science and Technology Department, Zhejiang University, Hangzhou, China. -->
+<!-- - *2007.09 - 2011.06*, Undergraduate, Computer Science and Technology Department, Qingdao University, Qingdao, China.-->
 
 # 📖 Services
 ## Conference Reviewer: 
 IEEE International Conference on Computer Vision (ICCV23)
+
 AAAI Conference on Artificial Intelligence (AAAI20-24)
+
 European Conference on Computer Vision (ECCV24)
+
 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV23-24)
+
 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP23-24)
+
 International Conference on Pattern Recognition (ICPR22-23)
 
 ## Journal Reviewer:
 International Journal of Computer Vision (IJCV)
+
 Signal Processing Letters (SPL)
 
 # 💬 Invited Talks
