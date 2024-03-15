@@ -91,6 +91,18 @@ Inference Fusion with Associative Semantics for Unseen Object Detection
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2020</div><img src='images/ijcai20.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dress Like an Internet Celebrity: Fashion Retrieval in Videos
+
+Hongrui Zhao, Jin Yu, **Yanan Li**, Donghui Wang<sup>*</sup>, Jie Liu, Hongxia Yang, Fei Wu
+
+[[Paper]](https://www.ijcai.org/Proceedings/2020/0147.pdf)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
