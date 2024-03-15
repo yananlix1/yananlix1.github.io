@@ -36,7 +36,7 @@ A High-Resolution Dataset for Instance Detection with Multi-View Object Capture
 Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, **Yanan Li<sup>*</sup>**, Shu Kong<sup>*</sup>
 [**Project**](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [Paper](https://arxiv.org/pdf/2310.19257)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This paper proposes the first large-scale instance detection dataset. 
+<!-- - This paper proposes the first large-scale instance detection dataset. -->
 </div>
 </div>
 
