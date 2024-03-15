@@ -32,7 +32,7 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 <div class='paper-box-text' markdown="1">
 
 
-[A High-Resolution Dataset for Instance Detection with Multi-View Object Capture]
+A High-Resolution Dataset for Instance Detection with Multi-View Object Capture
 Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, **Yanan Li<sup>*</sup>**, Shu Kong<sup>*</sup>
 [**Project**](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [Paper](https://arxiv.org/pdf/2310.19257)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
