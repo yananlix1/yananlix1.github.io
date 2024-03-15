@@ -154,6 +154,11 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 - [Long-Tailed 3D Detection via 2D Late Fusion](https://arxiv.org/abs/2312.10986), Yechi Ma, Neehar Peri, Shuoquan Wei, Wei Hua, Deva Ramanan, **Yanan Li**, Shu Kong. arXiv. 2023. 
 
 - [Trajectory-aware Principal Manifold Framework for Data Augmentation and Image Generation](https://arxiv.org/abs/2310.07801), Elvis Han Cui, Bingbin Li, **Yanan Li**, Weng Kee Wong, Donghui Wang. arXiv. 2023.
+
+- [Q-net: Query-informed few-shot medical image segmentation](https://arxiv.org/pdf/2208.11451.pdf), Qianqian Shen, **Yanan Li<sup>*</sup>**, Jiyong Jin, Bin Liu<sup>*</sup>. Intellisys. 2022.
+
+- [Dual path structural contrastive embeddings for learning novel objects](https://arxiv.org/abs/2112.12359), Bingbin Li, Elvis Han Cui, **Yanan Li**, Donghui Wang, Weng Kee Wong. arXiv. 2021.
+- [Class-incremental few-shot object detection](https://arxiv.org/abs/2105.07637), Pengyang Li, Yanan Li, Han Cui, Donghui Wang. arXiv. 2021. 
 - 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
