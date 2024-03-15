@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher now in Hangzhou, leading a fundamental computer vision/machine learning research group. I am now working on zero/few-shot learning, open-world learning, long-tailed recognition etc. If you are seeking any form of **academic cooperation**, please feel free to email me at [liyn@zhejianglab.com](mailto:liyn@zhejianglab.com) or [ynli.zju@gmail.com](mailto:ynli.zju@gmail.com). 
+I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher now in Hangzhou, leading a fundamental computer vision/machine learning research group. I completed my Ph.D. in College of Computer Science from Zhejiang University, co-supervised by Prof. [Yueting Zhuang (庄越挺)](https://scholar.google.com/citations?user=1RD7UJAAAAAJ&hl=zh-CN) and Prof. [Donghui Wang (王东辉)](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=zh-CN). I am now working on zero/few-shot learning, open-world learning, long-tailed recognition etc. If you are seeking any form of **academic cooperation**, please feel free to email me at [liyn@zhejianglab.com](mailto:liyn@zhejianglab.com) or [ynli.zju@gmail.com](mailto:ynli.zju@gmail.com). 
 
-I completed my Ph.D. in College of Computer Science from Zhejiang University, co-supervised by Prof. [Yueting Zhuang (庄越挺)](https://scholar.google.com/citations?user=1RD7UJAAAAAJ&hl=zh-CN) and Prof. [Donghui Wang (王东辉)](https://scholar.google.com/citations?user=AkRWtMUAAAAJ&hl=zh-CN). 
+
 
 
 # 🔥 News
