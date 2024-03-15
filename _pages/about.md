@@ -23,9 +23,11 @@ Several
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by CVPR 2024.
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023.
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by NeurIPS Datasets and Benchmarks Track 2023. 
+- *2023.06*: &nbsp;🎉🎉 Our ["3rd Workshop of Visual Perception and Learning in an Open World"](https://vplow.github.io/vplow_3rd.html)  will be held in conjunction with CVPR'23 on June 18, 2023!
+- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
