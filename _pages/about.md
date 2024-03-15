@@ -33,9 +33,7 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 
 
 The Neglected Tails of Vision-Language Models
-
 Shubham Parashar, Zhiqiu Lin, Tian Liu, Xiangjue Dong, **Yanan Li**, Deva Ramanan, James Caverlee, Shu Kong
-
 [[**Project**]](https://shubhamprshr27.github.io/neglected-tails-of-vlms/) &nbsp;&nbsp; [[Paper]](https://arxiv.org/pdf/2401.12425.pdf)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
