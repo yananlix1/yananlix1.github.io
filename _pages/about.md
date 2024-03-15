@@ -33,7 +33,7 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 
 
 [A High-Resolution Dataset for Instance Detection with Multi-View Object Capture]
-Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, **Yanan Li***, Shu Kong
+Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, **Yanan Li***, Shu Kong*
 [**Project**](https://github.com/insdet/instance-detection/) [paper](https://arxiv.org/pdf/2310.19257)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper proposes the first large-scale instance detection dataset. 
