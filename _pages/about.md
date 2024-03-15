@@ -179,22 +179,22 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 # 📖 Services
 ## Conference Reviewer: 
-IEEE International Conference on Computer Vision (ICCV23)
+- IEEE International Conference on Computer Vision (ICCV23)
 
-AAAI Conference on Artificial Intelligence (AAAI20-24)
+- AAAI Conference on Artificial Intelligence (AAAI20-24)
 
-European Conference on Computer Vision (ECCV24)
+- European Conference on Computer Vision (ECCV24)
 
-IEEE/CVF Winter Conference on Applications of Computer Vision (WACV23-24)
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV23-24)
 
-IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP23-24)
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP23-24)
 
-International Conference on Pattern Recognition (ICPR22-23)
+- International Conference on Pattern Recognition (ICPR22-23)
 
 ## Journal Reviewer:
-International Journal of Computer Vision (IJCV)
+- International Journal of Computer Vision (IJCV)
 
-Signal Processing Letters (SPL)
+- Signal Processing Letters (SPL)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
