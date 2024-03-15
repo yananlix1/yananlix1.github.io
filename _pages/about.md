@@ -79,6 +79,17 @@ Jing Xu, Xu Luo, Xinglin Pan, **Yanan Li**, Wenjie Pei, Zenglin Xu
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2021</div><img src='images/aaai21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Inference Fusion with Associative Semantics for Unseen Object Detection
+
+**Yanan Li**, Pengyang Li, Han Cui, Donghui Wang
+
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16295)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
