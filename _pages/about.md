@@ -153,6 +153,8 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 - [Long-Tailed 3D Detection via 2D Late Fusion](https://arxiv.org/abs/2312.10986), Yechi Ma, Neehar Peri, Shuoquan Wei, Wei Hua, Deva Ramanan, **Yanan Li**, Shu Kong. arXiv. 2023. 
 
+- [Trajectory-aware Principal Manifold Framework for Data Augmentation and Image Generation](https://arxiv.org/abs/2310.07801), Elvis Han Cui, Bingbin Li, **Yanan Li**, Weng Kee Wong, Donghui Wang. arXiv. 2023.
+- 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
