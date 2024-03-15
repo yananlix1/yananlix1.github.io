@@ -28,7 +28,7 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/neurips23-insdet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
