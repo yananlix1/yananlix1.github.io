@@ -170,8 +170,13 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2023 Outstanding Communist Party Member
+- 2022 Annual Technology Award
+- 2020 Annual Technology Award
+- 2019 Annual Contribution Award (Team)
+- 2013 Award of Honor for Graduate
+- 2012 Second-class Award of Honor for Graduate
+- 2010 National Scholarship (Undergraduate) (Top 1%)  
 
 <!-- # 📖 Educations-->
 <!-- - *2011.09 - 2018.04*, PhD, Computer Science and Technology Department, Zhejiang University, Hangzhou, China. -->
