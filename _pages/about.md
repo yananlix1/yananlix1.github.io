@@ -127,6 +127,18 @@ Joint Learning of Attended Zero-Shot Features and Visual-Semantic Mapping
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2017</div><img src='images/cvpr17.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Zero-shot recognition using dual visual-semantic mapping paths
+
+**Yanan Li**, Donghui Wang<sup>*</sup>, Huanhang Hu, Yuetan Lin, Yueting Zhuang
+
+[[Paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Zero-Shot_Recognition_Using_CVPR_2017_paper.pdf)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
