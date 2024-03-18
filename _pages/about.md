@@ -164,7 +164,7 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 - [Dual path structural contrastive embeddings for learning novel objects](https://arxiv.org/abs/2112.12359), Bingbin Li, Elvis Han Cui, **Yanan Li**, Donghui Wang, Weng Kee Wong. arXiv. 2021.
 - [Class-incremental few-shot object detection](https://arxiv.org/abs/2105.07637), Pengyang Li, Yanan Li, Han Cui, Donghui Wang. arXiv. 2021. 
-- [Dual Path Multi-Modal High-Order Features for Textual Content based Visual Question Answering](), **Yanan Li**, Yuetan Lin, Honghui Zhao, Donghui Wang. ICIP. 2021.
+- [Dual Path Multi-Modal High-Order Features for Textual Content based Visual Question Answering](), **Yanan Li**, Yuetan Lin, Honghui Zhao, Donghui Wang. ICPR. 2020.
 - [Zero-shot detection with transferable object proposal mechanism](https://ieeexplore.ieee.org/abstract/document/8803655/), Yilan Shao, **Yanan Li<sup>*</sup>**, Donghui Wang<sup>*</sup>. ICIP. 2019.
 - [Learning Visually Aligned Semantic Graph for Cross-Modal Manifold Matching](https://ieeexplore.ieee.org/abstract/document/8803515), **Yanan Li**, Huanhang Hu, Donghui Wang. ICIP. 2019.
 - [Generating Manifold-Aligned Semantic Feature for Zero-shot Learning](https://ieeexplore.ieee.org/abstract/document/8451685/), Jidong Wang, **Yanan Li**, Zhangyang Pang, Donghui Wang. ICIP. 2018.
