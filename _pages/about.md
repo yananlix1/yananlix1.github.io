@@ -175,7 +175,7 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 
 # 🎖 Honors and Awards
-- 2023 Outstanding Communist Party Member
+<--! - 2023 Outstanding Communist Party Member -->
 - 2022 Annual Technology Award
 - 2020 Annual Technology Award
 - 2019 Annual Contribution Award (Team)
