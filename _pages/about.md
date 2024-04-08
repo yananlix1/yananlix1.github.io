@@ -53,7 +53,7 @@ Shubham Parashar, Zhiqiu Lin, Tian Liu, Xiangjue Dong, **Yanan Li**, Deva Ramana
 
 A High-Resolution Dataset for Instance Detection with Multi-View Object Capture
 Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, **Yanan Li<sup>*</sup>**, Shu Kong<sup>*</sup>
-[[**Project**]](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [[Paper]](https://arxiv.org/pdf/2310.19257)
+[[**Project**]](https://github.com/insdet/instance-detection/) &nbsp;&nbsp; [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/832ea0ff01bd512aab28bf416db9489c-Paper-Datasets_and_Benchmarks.pdf)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <!-- - This paper proposes the first large-scale instance detection dataset. -->
 </div>
