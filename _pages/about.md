@@ -91,7 +91,7 @@ Jing Xu, Xu Luo, Xinglin Pan, **Yanan Li**, Wenjie Pei, Zenglin Xu
 
 Inference Fusion with Associative Semantics for Unseen Object Detection
 
-**Yanan Li**, Pengyang Li, Han Cui, Donghui Wang
+**Yanan Li**, Pengyang Li, Han Cui, Donghui Wang<sup>*</sup>
 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16295)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
