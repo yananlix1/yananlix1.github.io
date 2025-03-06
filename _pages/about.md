@@ -158,7 +158,7 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 </div>
 </div>
 
-- [Few-Shot Class-Incremental Learning via Cross-Modal Alignment with Feature Replay], **Yanan Li**, Linpu He, Feng Lin, Donghui Wang<sup>*</sup>. PRCV. 2024. 
+- [Few-Shot Class-Incremental Learning via Cross-Modal Alignment with Feature Replay](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_2), **Yanan Li**, Linpu He, Feng Lin, Donghui Wang<sup>*</sup>. PRCV. 2024. 
  
 - [Long-Tailed 3D Detection via 2D Late Fusion](https://arxiv.org/abs/2312.10986), Yechi Ma, Neehar Peri, Shuoquan Wei, Wei Hua, Deva Ramanan, **Yanan Li**, Shu Kong. arXiv. 2023. 
 
