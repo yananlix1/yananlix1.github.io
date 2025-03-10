@@ -35,7 +35,7 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 - *2020.04*: &nbsp;🎉 One paper is accepted by IJCAI 2020.
   
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -206,6 +206,8 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 # 📖 Services
 ## Conference Reviewer: 
+- The 39th Annual Conference on Neural Information Processiong Systems (NeurIPS25)
+  
 - IEEE International Conference on Computer Vision (ICCV23)
 
 - AAAI Conference on Artificial Intelligence (AAAI20-24)
@@ -222,6 +224,8 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 - International Journal of Computer Vision (IJCV)
 
 - Signal Processing Letters (SPL)
+
+- Pattern Recognition (PR)
 
 ## Grant Reviewer: 
 - National Natural Science Foundation of China
