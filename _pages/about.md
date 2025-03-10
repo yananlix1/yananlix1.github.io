@@ -24,6 +24,7 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉 One paper is accepted by CVPR 2025.
+- *2024.12*: &nbsp;🎉 Our challenge workshop ["Object Instance Detection"](https://insdet.github.io/) has been held in conjunction with ACCV 2024. 
 - *2024.06*: &nbsp;🎉 One paper is accepted by PRCV 2024.
 - *2024.02*: &nbsp;🎉 One paper is accepted by CVPR 2024.
 - *2023.10*: &nbsp;🎉 One paper is accepted by EMNLP 2023.
