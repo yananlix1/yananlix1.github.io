@@ -206,13 +206,15 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 # 📖 Services
 ## Conference Reviewer: 
-- The 39th Annual Conference on Neural Information Processiong Systems (NeurIPS25)
+- The Annual Conference on Neural Information Processiong Systems (NeurIPS24-25)
   
 - IEEE International Conference on Computer Vision (ICCV23)
 
-- AAAI Conference on Artificial Intelligence (AAAI20-24)
+- AAAI Conference on Artificial Intelligence (AAAI20-25)
 
 - European Conference on Computer Vision (ECCV24)
+
+- 17th Asian Conference on Computer Vision (ACCV24)
 
 - IEEE/CVF Winter Conference on Applications of Computer Vision (WACV23-24)
 
