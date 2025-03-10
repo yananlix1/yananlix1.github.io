@@ -35,6 +35,18 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 - *2020.04*: &nbsp;🎉 One paper is accepted by IJCAI 2020.
   
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Solving Instance Detection from an Open-World Perspective.
+
+Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, **Yanan Li<sup>*</sup>**, Shu Kong<sup>*</sup>
+
+[[Paper]](https://arxiv.org/pdf/2503.00359)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/cvpr24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
