@@ -36,6 +36,19 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 - *2020.04*: &nbsp;🎉 One paper is accepted by IJCAI 2020.
   
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/acmmm25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+DSS-Prompt: Dynamic-Static Synergistic Prompting for Few-Shot Class-Incremental Learning. 
+
+Linpu He, **Yanan Li<sup>*</sup>**, Bingze Li, Elvis Han Cui, Donghui Wang
+
+[Paper]
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
