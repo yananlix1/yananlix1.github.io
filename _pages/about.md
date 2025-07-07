@@ -43,7 +43,7 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 
 DSS-Prompt: Dynamic-Static Synergistic Prompting for Few-Shot Class-Incremental Learning. 
 
-Linpu He, **Yanan Li<sup>✉️</sup>**, Bingze Li, Elvis Han Cui, Donghui Wang
+Linpu He, **Yanan Li<sup>*</sup>**, Bingze Li, Elvis Han Cui, Donghui Wang
 
 [Paper]
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
