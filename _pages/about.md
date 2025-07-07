@@ -35,7 +35,8 @@ I work at [Zhejiang Lab](https://zhejianglab.cn/com) as an Associate Researcher 
 - *2021.01*: &nbsp;🎉 One paper is accepted by AAAI 2021.
 - *2020.04*: &nbsp;🎉 One paper is accepted by IJCAI 2020.
   
-# 📝 Publications  *Corresponding author
+# 📝 Publications  
+\* denotes the corresponding author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2025</div><img src='images/acmmm25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
