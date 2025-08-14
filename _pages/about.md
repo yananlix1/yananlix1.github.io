@@ -45,7 +45,7 @@ DSS-Prompt: Dynamic-Static Synergistic Prompting for Few-Shot Class-Incremental 
 
 Linpu He, **Yanan Li<sup>*</sup>**, Bingze Li, Elvis Han Cui, Donghui Wang
 
-[Paper]
+[[Paper]](https://arxiv.org/pdf/2508.09785)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
