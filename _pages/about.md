@@ -260,7 +260,7 @@ Donghui Wang<sup>*</sup>, **Yanan Li**, Yuetan Lin, Yueting Zhuang
 
 - 2023.01 - 2025.12, National Natural Science Foundation of China (国家自然科学基金青C, PI)
   
-- 2020.01 - 2022.12, Zhejiang Provincial Natural Science Foundation of China (PI)
+- 2020.01 - 2022.12, Zhejiang Provincial Natural Science Foundation of China (浙江省自然科学基金，PI)
   
 - 2020.01 - 2020.12, Zhejiang Lab's Talent Fund for Young Professionals (PI)
   
